@@ -557,6 +557,7 @@ footer {
 
   #logo {
     width: 45%;
+    max-width: 485px;
     float: left;
     margin: -15px 0px 10px 3%;
   }
