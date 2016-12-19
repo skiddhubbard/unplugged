@@ -201,7 +201,6 @@ li a {
 
 .main {
   width: 96%;
-  max-width: 1080px;
   padding: 0 2%;
   margin: auto;
 }
@@ -556,7 +555,6 @@ footer {
 
   #logo {
     width: 45%;
-    max-width: 485px;
     float: left;
     margin: -15px 0px 10px 3%;
   }
@@ -828,6 +826,12 @@ footer {
 
 @media (min-width: 940px) {
 
+   .wrapper {
+      width: 100%;
+      max-width: 1080px;
+      margin: auto;
+   }
+   
 /***Header***/
 
   #logo {
