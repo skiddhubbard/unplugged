@@ -153,6 +153,7 @@ header {
 
 #logo {
   width: 90%;
+  max-width: 485px;
   height: 70px;
   padding: 10px 0px 8px;
   margin: 0px auto;
@@ -1007,6 +1008,10 @@ footer {
   }
 
 /***About Page***/
+   
+   ul {
+    max-width: 550px;
+   }
 
   #sub-nav {
     padding-right: 43px;
